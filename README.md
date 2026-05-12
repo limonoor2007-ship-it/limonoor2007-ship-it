@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**limonoor2007-ship-it/limonoor2007-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi I am Fatima Noor 👋
+# About me:
+I am a BS Psychology student passionate about learning technology and AI
+## Skills:
+- Communication
+- Research Skills
+- MS Word
+- Team work
+- Leadership
+- Management
+- Active Listening
+- Emotional Intelligence
+## Currently learning:
+- Github
+- AI Tools
+- Python
+- Hackathons
+- BS Psychology
+## Contact: 
+- Linkedin:https://www.linkedin.com/in/fatima-noor-25a953406
+- Email: limo.noor2007@gmail.com
